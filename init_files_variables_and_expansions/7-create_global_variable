@@ -1,0 +1,4 @@
+#!/bin/bash
+BEST="School"
+export GLOBAL_BEST
+echo $BEST
