@@ -1,5 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Init script to manage manage_my_process
+
 case "$1" in
     start)
         # Start the process
